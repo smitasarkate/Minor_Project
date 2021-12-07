@@ -5,4 +5,3 @@ numpy~=1.19.2
 opencv-python<4.5.4.60
 matplotlib==3.2.1
 scipy<=1.7.3
-tensorflow-hub @ https://files.pythonhosted.org/packages/10/5c/6f3698513cf1cd730a5ea66aec665d213adf9de59b34f362f270e0bd126f/tensorflow_hub-0.4.0-py2.py3-none-any.whl
